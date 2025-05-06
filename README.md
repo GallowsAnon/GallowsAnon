@@ -23,7 +23,7 @@
 - 🌐 Website/Portfolio: Coming Soon
 
 ### 📊 GitHub Stats
-!Gallows's GitHub Stats](https://github-readme-stats.vercel.app/api?username={{YOUR_GITHUB_USERNAME}}&show_icons=true&theme={{YOUR_PREFERRED_THEME}})
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username={{YOUR_GITHUB_USERNAME}}&layout=compact&theme={{YOUR_PREFERRED_THEME}})
+!Gallows's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GallowsAnon&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GallowsAnon&layout=compact&theme=dark)
 
 ---
